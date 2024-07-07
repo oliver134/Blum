@@ -5,8 +5,8 @@
 // @match        https://telegram.blum.codes/*
 // @grant        none
 // @icon         https://raw.githubusercontent.com/oliver134/Blum/main/blum.jpeg
-// @downloadURL  https://github.com/oliver134/Blum/raw/main/blum-autoclicker.en.user.js
-// @updateURL    https://github.com/oliver134/Blum/raw/main/blum-autoclicker.en.user.js
+// @downloadURL  https://github.com/oliver134/Blum/raw/main/blum-autoclicker.user.js
+// @updateURL    https://github.com/oliver134/Blum/raw/main/blum-autoclicker.user.js
 // @author       Emin M @emin.mir
 // @homepage     https://t.me/crypto_world_aze
 // ==/UserScript==
